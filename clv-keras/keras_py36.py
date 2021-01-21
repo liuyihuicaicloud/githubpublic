@@ -4,7 +4,7 @@
 import os
 import argparse
 import tensorflow as tf
-import tensorflow.keras
+import tensorflow.keras as keras
 
 tf.__version__
 
